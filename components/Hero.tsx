@@ -57,7 +57,7 @@ const Hero = () => {
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi! I&apos;m Galib, a Full Stack Developer in Bangladesh.
+            Hi! I&apos;m Ahad, a Full Stack Developer in Bangladesh.
           </p>
 
           <a href="#about">
