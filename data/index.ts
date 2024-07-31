@@ -102,6 +102,14 @@ export const projects = [
     link: "https://ahads-sanity.vercel.app",
     name: "Ecommerce",
   },
+  {
+    id: 5,
+    title: "Zoom Clone | Video Streaming App",
+    des: "A app to collborate with your team or anyone with any passion. Instant meeting, Schedule meeting and Personal room",
+    img: "/p5.png",
+    link: "https://ahads-voom.vercel.app",
+    name: "Voom",
+  },
 ];
 
 export const workExperience = [
